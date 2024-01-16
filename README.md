@@ -3,7 +3,7 @@ Hotel Booking Analysis (EDA) in Colab Notebook
 
 This repository contains a single Colab notebook for analyzing a hotel booking dataset. The goal is to gain insights into guest behavior, revenue trends, and identify areas for optimizing hotel performance.
 
-Data
+Data:-
 The dataset, hotel_booking.csv, is uploaded and accessed within the Colab notebook. It contains approximately 119,390 rows and 32 columns, including:
 
 Hotel information (name, type, location, etc.)
@@ -25,10 +25,10 @@ Opportunities for improving guest experience and satisfaction could be highlight
 Colab Notebook
 Access the hotel_booking_analysis.ipynb file to explore the code, visualizations, and detailed analysis.
 
-Dependencies
+Dependencies:-
 No external installation is required. The Colab notebook environment comes pre-equipped with libraries like pandas, matplotlib, and seaborn.
 
-Getting Started
+Getting Started:-
 Clone this repository.
 Open the hotel_booking_analysis.ipynb file in Colab.
 Follow the instructions within the notebook to run the analysis and explore the results.
